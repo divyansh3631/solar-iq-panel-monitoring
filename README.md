@@ -525,7 +525,7 @@ Documentation:    Markdown, JSDoc
 📱 Responsive design
 </td>
 <td align="center" width="20%">
-<strong>Team Member</strong><br>
+<strong>Abhilasha Tiwari</strong><br>
 <em>Backend Development<br>& Cloud Integration</em><br><br>
 🔙 Node.js API<br>
 ☁️ Firebase setup<br>
