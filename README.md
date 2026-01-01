@@ -839,5 +839,5 @@ See the [LICENSE](LICENSE) file for complete details.
 *System Architect & Integration Lead*
 
 [![GitHub](https://img.shields.io/badge/GitHub-divyansh3631-black?style=for-the-badge&logo=github)](https://github.com/divyansh3631)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyansh%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyansh-sharma-8b1321136/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:divyansh3631@gmail.com)
