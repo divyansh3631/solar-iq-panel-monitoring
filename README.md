@@ -463,8 +463,8 @@ Interested in Solar IQ or want to collaborate? Reach out!
 
 **Project Lead - Divyansh Sharma**
 - 🐙 GitHub: [@divyansh3631](https://github.com/divyansh3631)
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: https://www.linkedin.com/in/divyansh-sharma-8b1321136/
+- 📧 Email: divyansh3631@gmail.com
 
 **Team Contact:**
 - For technical queries: Open an issue on this repository
@@ -508,3 +508,26 @@ Additional documentation available in the `/docs` folder:
 **Project Type:** Capstone Project  
 **Status:** Completed ✅  
 **Last Updated:** January 2026
+---
+
+## 📊 Repository Statistics
+
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/divyansh3631/solar-iq-panel-monitoring?style=social)
+![GitHub forks](https://img.shields.io/github/forks/divyansh3631/solar-iq-panel-monitoring?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/divyansh3631/solar-iq-panel-monitoring?style=social)
+
+**Total Commits:** ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/divyansh3631/solar-iq-panel-monitoring)
+**Last Updated:** ![GitHub last commit](https://img.shields.io/github/last-commit/divyansh3631/solar-iq-panel-monitoring)
+**Code Size:** ![GitHub code size](https://img.shields.io/github/languages/code-size/divyansh3631/solar-iq-panel-monitoring)
+
+</div>
+
+---
+
+## 🌟 Star History
+
+If you found this project helpful, please ⭐ star this repository to show your support!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=divyansh3631/solar-iq-panel-monitoring&type=Date)](https://star-history.com/#divyansh3631/solar-iq-panel-monitoring&Date)
